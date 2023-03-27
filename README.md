@@ -1,5 +1,3 @@
-### Jason Shultz
-
 <a href="https://app.daily.dev/thehashrocket"><img src="https://api.daily.dev/devcards/d6f5c13fdec24a8bb589f08287fdd7c8.png?r=ncg" width="400" alt="Jason Shultz's Dev Card"/></a>
 
 - 🔭 I’m currently working on ...
