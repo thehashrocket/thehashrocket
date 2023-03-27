@@ -1,9 +1,6 @@
-### Hi there 👋
+### Jason Shultz
 
-<!--
-**thehashrocket/thehashrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href="https://app.daily.dev/thehashrocket"><img src="https://api.daily.dev/devcards/d6f5c13fdec24a8bb589f08287fdd7c8.png?r=ncg" width="400" alt="Jason Shultz's Dev Card"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
