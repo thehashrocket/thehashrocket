@@ -22,4 +22,4 @@ Full-stack developer based in Manteca, CA. I build web applications end-to-end â
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehashrocket&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehashrocket&layout=compact&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehashrocket&layout=compact&hide_border=true&langs_count=8&hide=html,css,scss,shell)
